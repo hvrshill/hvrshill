@@ -102,11 +102,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  
 </div>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=hvrshill&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"  alt="hvrshill"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hvrshill&theme=highcontrast&hide_border=true"  alt="hvrshill"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvrshill&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  alt="hvrshill"  />
 
 ###
