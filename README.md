@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning Python, C++, Ai/Ml <br>- ⚡ In my free time I play chess, read books listen to music and explore web!</p>
+<p align="left">I'm harshil from Jaipur<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning Python, C++, Ai/Ml <br>- ⚡ In my free time I play chess, read books listen to music and explore web!</p>
 
 ###
 
