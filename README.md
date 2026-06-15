@@ -1,124 +1,182 @@
+<!-- SPACE THEMED README — Harshil Gupta -->
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          ◈  STELLAR COMMAND NETWORK — ACCESS GRANTED  ◈          ║
+║                 OPERATIVE ID: HVRSHILL // SECTOR: JAIPUR          ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-###
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+SIGNAL+ACQUIRED.+WELCOME%2C+OPERATIVE.)
 
-  <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=&hvrshilllabel=PROFILE+VIEWS)
-  <a href="https://www.linkedin.com/in/harshil-gupta1062/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC9P4z8Q-zJUfBQ6qvmxKnIg/">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://x.com/harshilxyz">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
 </div>
 
+---
 
-###
+<div align="center">
 
-<h1 align="center">hey there 👋</h1>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MISSION_COMM-00F5FF?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=050A18)](https://www.linkedin.com/in/harshil-gupta1062/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-BROADCAST-FF6B35?style=for-the-badge&logo=youtube&logoColor=FF6B35&labelColor=050A18)](https://www.youtube.com/channel/UC9P4z8Q-zJUfBQ6qvmxKnIg/)
+[![Twitter](https://img.shields.io/badge/TWITTER-SIGNAL-BD00FF?style=for-the-badge&logo=twitter&logoColor=BD00FF&labelColor=050A18)](https://x.com/harshilxyz)
+![Profile Views](https://komarev.com/ghpvc/?username=hvrshill&style=for-the-badge&color=00F5FF&label=SCANS+DETECTED&labelColor=050A18)
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm harshil from Jaipur<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning Python, C++, Ai/Ml <br>- ⚡ In my free time I play chess, read books listen to music and explore web!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=hvrshill&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"  alt="hvrshill"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hvrshill&theme=highcontrast&hide_border=true"  alt="hvrshill"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvrshill&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  alt="hvrshill"  />
+```
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░                                                              ░
+ ░     ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗         ░
+ ░     ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║         ░
+ ░     ███████║███████║██████╔╝███████╗███████║██║██║         ░
+ ░     ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║         ░
+ ░     ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗    ░
+ ░     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝    ░
+ ░                                                              ░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-###
+<div align="center">
+
+> **`[ CLASSIFICATION: OPEN SOURCE ]  [ ORIGIN: JAIPUR, INDIA ]  [ STATUS: ACTIVE ]`**
+
+</div>
+
+---
+
+## `◈ OPERATIVE DOSSIER`
+
+```yaml
+# ╔═══════════════════════════════════════╗
+# ║       MISSION BRIEFING — HVRSHILL     ║
+# ╚═══════════════════════════════════════╝
+
+DESIGNATION   : Harshil Gupta
+CALLSIGN      : hvrshill
+SECTOR        : Jaipur, India (Sector 7-G)
+UNIT_CLASS    : Student Operative — Tech Division
+CLEARANCE     : Explorer Level
+
+PRIMARY_OBJ   :
+  - [ACTIVE]   Mastering Python for autonomous systems
+  - [ACTIVE]   Deploying C++ for high-performance computation
+  - [ACTIVE]   Navigating AI/ML deep space territories
+
+RECREATION_LOGS:
+  - ♟  Chess (tactical simulation — offline mode)
+  - 📖  Books (downloading knowledge — organic storage)
+  - 🎵  Music (neural calibration sequence)
+  - 🌐  Web exploration (scanning uncharted sectors)
+```
+
+---
+
+## `◈ ARSENAL — TECH STACK MANIFEST`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  OFFENSIVE SYSTEMS          │  INFRASTRUCTURE               │
+├─────────────────────────────┼───────────────────────────────┤
+│  ● Python    [MASTERING]    │  ● AWS       [DEPLOYED]       │
+│  ● C++       [MASTERING]    │  ● Docker    [CONTAINERIZED]  │
+│  ● Go        [EQUIPPED]     │  ● Firebase  [ONLINE]         │
+│  ● Rust      [EQUIPPED]     │  ● GCP       [LINKED]         │
+│  ● JS/TS     [ONLINE]       │  ● Linux     [NATIVE]         │
+│  ● Kotlin    [STANDBY]      │  ● Git/Hub   [SYNCED]         │
+├─────────────────────────────┼───────────────────────────────┤
+│  INTELLIGENCE SYSTEMS       │  INTERFACE LAYER              │
+├─────────────────────────────┼───────────────────────────────┤
+│  ● TensorFlow[INITIALIZING] │  ● HTML5/CSS3 [LIVE]          │
+│  ● OpenCV    [SCANNING]     │  ● Node.js    [RUNNING]       │
+│  ● Anaconda  [READY]        │  ● Next.js    [DEPLOYED]      │
+│  ● Selenium  [AUTOMATED]    │  ● Arduino    [WIRED]         │
+└─────────────────────────────┴───────────────────────────────┘
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-050A18?style=for-the-badge&logo=python&logoColor=00F5FF)
+![C++](https://img.shields.io/badge/C++-050A18?style=for-the-badge&logo=cplusplus&logoColor=00F5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-050A18?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![TypeScript](https://img.shields.io/badge/TypeScript-050A18?style=for-the-badge&logo=typescript&logoColor=00BFFF)
+![Go](https://img.shields.io/badge/Go-050A18?style=for-the-badge&logo=go&logoColor=00F5FF)
+![Rust](https://img.shields.io/badge/Rust-050A18?style=for-the-badge&logo=rust&logoColor=FF6B35)
+![Kotlin](https://img.shields.io/badge/Kotlin-050A18?style=for-the-badge&logo=kotlin&logoColor=BD00FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-050A18?style=for-the-badge&logo=tensorflow&logoColor=FF6B35)
+![Docker](https://img.shields.io/badge/Docker-050A18?style=for-the-badge&logo=docker&logoColor=00F5FF)
+![AWS](https://img.shields.io/badge/AWS-050A18?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700)
+![Firebase](https://img.shields.io/badge/Firebase-050A18?style=for-the-badge&logo=firebase&logoColor=FF6B35)
+![Linux](https://img.shields.io/badge/Linux-050A18?style=for-the-badge&logo=linux&logoColor=C8D6F0)
+![Arduino](https://img.shields.io/badge/Arduino-050A18?style=for-the-badge&logo=arduino&logoColor=00F5FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-050A18?style=for-the-badge&logo=opencv&logoColor=00F5FF)
+![Next.js](https://img.shields.io/badge/Next.js-050A18?style=for-the-badge&logo=nextdotjs&logoColor=C8D6F0)
+![Node.js](https://img.shields.io/badge/Node.js-050A18?style=for-the-badge&logo=nodedotjs&logoColor=00C853)
+![Git](https://img.shields.io/badge/Git-050A18?style=for-the-badge&logo=git&logoColor=FF6B35)
+
+</div>
+
+---
+
+## `◈ MISSION ANALYTICS — COMMAND CENTER`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hvrshill&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&border_color=00F5FF&title_color=00F5FF&icon_color=BD00FF&text_color=C8D6F0&bg_color=050A18&ring_color=BD00FF)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hvrshill&theme=midnight-purple&hide_border=false&border=00F5FF&stroke=BD00FF&ring=00F5FF&fire=FF6B35&currStreakLabel=C8D6F0&sideLabels=C8D6F0&dates=888888&background=050A18&currStreakNum=00F5FF&sideNums=BD00FF)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvrshill&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&border_color=00F5FF&title_color=00F5FF&text_color=C8D6F0&bg_color=050A18)
+
+</div>
+
+---
+
+## `◈ TRANSMISSION ACTIVITY`
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hvrshill&theme=react-dark&bg_color=050A18&color=00F5FF&line=BD00FF&point=FF6B35&area=true&hide_border=false&border_color=00F5FF)](https://github.com/hvrshill)
+
+</div>
+
+---
+
+## `◈ ACHIEVEMENT TROPHIES`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hvrshill&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title_color=00F5FF)](https://github.com/hvrshill)
+
+</div>
+
+---
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  ◈  END OF TRANSMISSION  ◈  OPERATIVE: HVRSHILL  ◈  SECTOR: IN   ║
+║                                                                    ║
+║         "The cosmos is within us. We are made of star-stuff."     ║
+║                                             — Carl Sagan           ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:BD00FF,100:00F5FF&height=120&section=footer&text=TRANSMISSION+COMPLETE&fontSize=16&fontColor=C8D6F0&fontAlignY=65&animation=twinkling)
+
+</div>
